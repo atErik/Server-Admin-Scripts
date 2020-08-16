@@ -3,7 +3,7 @@ Scripts to configure+integrate open-source & free components/software, into a fr
 
 Patch-scripts to modify+configure existing open-source mail server project scripts: iRedMail+iRedAdmin, Mail-in-a-Box, etc.
 
-Check our "Wiki" sub-site under this project.
+Check our "<a href="https://github.com/atErik/Mail-Server-Scripts/wiki">Wiki</a>" sub-site under this project.
 <br /><br />
 
 We had to start this prject because many mail-server projects/devs are using open-source & free & derived knowledge/scripts, but putting them only in "Paid" editions, instead of making it available for free in open-source edition, so such projects/devs are either violating license or doing injustice.
@@ -12,8 +12,8 @@ We had to start this prject because many mail-server projects/devs are using ope
 <a name="License"></a>
 <div width="100%"><b>Mail-Server-Scripts:</b><br />
  All Script(s)/Tool(s), Config(s)/Settings, etc For “Mail-Server-Scripts” (this project)
- are <b>Released with following (combined) LICENSE(s) + 
- RESTRICTIONs + PERMISSIONs</b>, (unless a different License is specifically mentioned)<b>:</b><dl>
+ are <b>Released with following COMBINED LICENSE + RESTRICTIONs + PERMISSIONs</b>,
+ (unless a different License is specifically mentioned)<b>:</b><dl>
  <dd> 
   <b class="b">•</b> GNU General Public License Version 3 
   (<a href="https://www.GNU.org/licenses/gpl-3.0.en.html" target="_blank">GPL v3</a>).<br />
