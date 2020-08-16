@@ -6,7 +6,7 @@ Patch-scripts to modify+configure existing open-source mail server project scrip
 Check our "Wiki" sub-site under this project.
 <br /><br />
 
-We had to start this prject because many mail-server projects/devs are using open-source & free knowledge/scripts, but putting them only in "Paid" editions, instead of making it available for free in open-source edition, so such projects/devs are either violating license or doing injustice.
+We had to start this prject because many mail-server projects/devs are using open-source & free & derived knowledge/scripts, but putting them only in "Paid" editions, instead of making it available for free in open-source edition, so such projects/devs are either violating license or doing injustice.
 
 <br /><br />
 <a name="License"></a>
@@ -18,7 +18,7 @@ We had to start this prject because many mail-server projects/devs are using ope
   <b class="b">•</b> GNU General Public License Version 3 
   (<a href="https://www.GNU.org/licenses/gpl-3.0.en.html" target="_blank">GPL v3</a>).<br />
   <b class="b">•</b> Do Not Use This To Kill/Harm/Violate (or Steal-from)(Any) Human/Community,Earth,etc.<br />
-  <b class="b">•</b> Features Derived From Using This Project/scripts, Must Exist+Available In "Free"-Edition.<br />
+  <b class="b">•</b> This-Project/Scripts Based Features Must Exist+Available In Free/OpenSource Edition For Free.<br />
   <b class="b">•</b> Copyright <b>©</b> 2020 atErik (Erik T Ashfolk) (&lt;at&#69;rik＠Ö&#965;ťĹö&#333;ķ·ċ&#333;m;
   at&#69;rïķ＠&#65;śh&#70;ölķ·ć&#333;m&gt; Do Not Copy Eml-Adrs, Type In 
   English/<a href="https://en.Wikipedia.org/wiki/Basic_Latin_%28Unicode_block%29" target="_blank">basic-Latin</a> 
