@@ -1,17 +1,18 @@
-# Mail-Server-Scripts
-Scripts to configure+integrate open-source & free components/software, into a free & open-source (single/cluster) mail-server.
+# Server-Admin-Scripts
+Scripts to configure+integrate open-source & free components/tools/software, into a free & open-source web/mail/DNS/IM, etc (single/cluster) server.
 
-Patch-scripts to modify+configure existing open-source mail server project scripts: iRedMail+iRedAdmin, Mail-in-a-Box, etc.
+Patch-scripts to modify+configure existing open-source (web/mail/etc) server project scripts:<br />
+&#160;&#160;&#160;Virtualmin, Usermin, Webmin, iRedMail+iRedAdmin, Mail-in-a-Box, etc.
 
-Check our "<a href="https://github.com/atErik/Mail-Server-Scripts/wiki">Wiki</a>" sub-site under this project.
+Check our "<a href="https://github.com/atErik/Server-Admin-Scripts/wiki">Wiki</a>" sub-site under this project.
 <br /><br />
 
-We had to start this prject because many mail-server projects/devs are using open-source & free & derived knowledge/scripts, but putting them only in "Paid" editions, instead of making it available for free in open-source edition, so such projects/devs are either violating license or doing injustice.
+We had to start this project because many mail-server projects/devs are using open-source & free knowledge/scripts & which is derived from other/many free & open-source knowledge/scripts/projects , but putting them only in "Paid" editions, instead of making it available for free in open-source edition, so such projects/devs are either violating license or doing injustice.
 
 <br /><br />
 <a name="License"></a>
-<div width="100%"><b>Mail-Server-Scripts:</b><br />
- All Script(s)/Tool(s), Config(s)/Settings, etc For “Mail-Server-Scripts” (this project)
+<div width="100%"><b>Server-Admin-Scripts:</b><br />
+ All Script(s)/Tool(s), Config(s)/Settings, etc For “Server-Admin-Scripts” (this project)
  are <b>Released with following COMBINED LICENSE + RESTRICTIONs + PERMISSIONs</b>,
  (unless a different License is specifically mentioned)<b>:</b><dl>
  <dd> 
